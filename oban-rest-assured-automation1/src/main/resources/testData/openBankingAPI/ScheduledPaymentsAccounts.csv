@@ -1,0 +1,10 @@
+productCode,userId,accountId,scheduledPaymentId,payerReference,status,toUType,payeeAccountUType,accountName,bsb,accountNumber,amount,nextPaymentDate,billerCode,crn,billerName,statusCode
+L9.1,14579448,FkV0hhmzMH7PcGMl8sj5sA,1DDPE0tDU0XnbcTsu36dPA,To Mortgage Loan L9.1,ACTIVE,domestic,account,D D & N A DUCK & K T #####,638-671,14579448,null,2022-08-24T14:00:00.000Z,,,,200
+L33,8194459,m3d9--Ze7OsrNuGCj5l4tw,sFt-kPpqWABiINKitCVcXQ,To Mortgage Loan L33.2,ACTIVE,domestic,account,C J & S KENT,638-942,8194459,350,2022-07-27T14:00:00.000Z,,,,200
+L29,8066523,CWy-gV925-gvwg0285lsnQ,N9uK6vbO5VticZAcQF4bmg,To Credit Card L61,ACTIVE,domestic,account,O & O OBDONOTUSEFOUR,638-410,8066523,null,2022-08-07T14:00:00.000Z,,,,200
+L47 - L47.9,14730006,KZ4dgIzaXJKSwNIE9Blm1Q,UKP-pGJ5ALYFgbMAI2YujA,To Mortgage Loan 12683639L32.1 Home Loan,ACTIVE,domestic,account,N R HUNTER,638-931,12683639,450,2022-07-30T14:00:00.000Z,,,,200
+L48 - L48.9,14899051,adkIo5KPVlTSVjXc4CgJ7Q,k2QTkqr4hMRZN-fTbOxpHw,To Personal Loan L48 Bike,ACTIVE,domestic,account,B F HIBBERT & B T AT,638-380,14899051,120,2022-08-04T14:00:00.000Z,,,,200
+S26,3065324,QDN9ge5OYpXQSRWlQfCYwA,kGhN1BcuNF09p8huIzfpfQ,To Savings S12,ACTIVE,domestic,account,M J WALLACE & A I A T #####,638-050,3065324,100,2022-08-02T14:00:00.000Z,,,,200
+S12,10093273,ZMqtoTU0tkNlyg32b-sjIQ,JMeze4hPKJJ7FEvJUJKMZQ,HOL tfr to MET (scheduled) - 484-799 123683893 J P Wright Jacqui Kemp haircu,ACTIVE,domestic,account,J P Wright,484-799,123683893,35,2022-08-18T14:00:00.000Z,,,,200
+S9.1 to S9.9,10072926,9rUgD0qF0uUVlX7gjY6Tcg,CpNlINbvMjVuzET7eaO8oQ,To Mortgage Loan L33 Tfr to L35,ACTIVE,domestic,account,M CURIE,638-940,10072926,nul,2022-08-25T14:00:00.000Z,,,,200
+S65 - S65.9,425869,YkVFLMmZLq02SCg0fh7PwQ,WO8ZczzvWytl5q-9ts443A,To Credit Card L50,ACTIVE,domestic,account,C & P P I DICKENS,638-960,425869,null,2022-08-10T14:00:00.000Z,,,,200

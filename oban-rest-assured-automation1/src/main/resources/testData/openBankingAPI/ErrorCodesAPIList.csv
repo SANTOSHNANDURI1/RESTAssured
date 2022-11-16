@@ -1,0 +1,10 @@
+urlAPI,payloadDir
+Transactions,TransactionsErrorCodes.json
+Payees,PayeesErrorCodes.json
+ScheduledPayments,ScheduledPaymentAccountErrorCodes.json
+DirectDebits,DirectDebitAccountsErrorCodes.json
+Balances,BalancesAccountErrorCodes.json
+Customer/Detail,CustomerDetailErrorCodes.json
+Accounts,AccountDetailsErrorCodes.json
+Accounts,AccountsErrorCodes.json
+FindUser,FindUserErrorCodes.json

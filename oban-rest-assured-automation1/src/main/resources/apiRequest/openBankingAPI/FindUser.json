@@ -1,0 +1,7 @@
+{
+  "requestParameter": {
+    "userId": "{{memberID}}",
+    "requesterCode": "81803f1f077f441c9e9af831d6a69aef",
+    "secondaryId": "{{secondaryID}}"
+  }
+}

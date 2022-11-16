@@ -1,0 +1,5 @@
+userId,accountId,customerUType,purpose,number,purpose_em,address_em,purpose_pa,addressUType_pa,mailingName,addressLine1,postcode,city,state,statusCode
+11784482,Xhrcd2jDt64BK1u_3OnKsg,person,MOBILE,55501234,UNSPECIFIED,hbltesting@heritage.com.au,MAIL,simple,MISS O OBDONOTUSEONE,23 MADNESS DR,4020,EAST SPRINGFIELD,QLD,200
+5998816,BOu4RloBAP2GZ9At5h8y4w,person,MOBILE,55501234,UNSPECIFIED,hbltesting@heritage.com.au,MAIL,simple,DR O OBDONOTUSETWO,12/34 RANGSTEEN DR,4350,EAST QUOHOG,QLD,200
+12234362,nkL5pcioxuPhYWjufm-TLg,person,MOBILE,449286809,UNSPECIFIED,hbltesting@heritage.com.au,MAIL,simple,MR O OBDONOTUSETHREE,23 MADNESS DR,3977,CRAZYTOWN,VIC,200
+8066523,nccxjGHC1Fg5CKSBUNUu6g,person,MOBILE,55501234,UNSPECIFIED,Debjyoti.Dhar@gds.ey.com,MAIL,simple,MR O OBDONOTUSEFOUR,12/34 RANGSTEEN DR,4350,EAST QUOHOG,QLD,200

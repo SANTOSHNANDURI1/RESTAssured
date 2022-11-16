@@ -1,0 +1,12 @@
+{
+  "requestParameter": {
+    "userId": "10000682",
+    "requestorCode": "81803f1f077f441c9e9af831d6a69aef"
+  },
+  "dataFilterParameter": {
+    "type": "ALL"
+  },
+  "page": {
+    "pageNumber": 1
+  }
+}

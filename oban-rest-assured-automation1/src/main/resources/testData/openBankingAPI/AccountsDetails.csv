@@ -1,0 +1,26 @@
+ProductCode,userId,accountId,creationDate,displayName,nickname,openStatus,isOwned,maskedNumber,productCategory,productName,statusCode
+I70,11784482,Xhrcd2jDt64BK1u_3OnKsg,2009-06-25T14:00:00.000Z,Farm Mngmt Term Account,Farm Mngmt Term Account,Open,TRUE,###82I70,TERM_DEPOSITS,Farm Management Deposit Term,200
+S54,14138786,ooqrjVfnRLC6dq5cRfJv1g,2022-04-25T14:00:00.000Z,Living Equity Account,Living Equity Account,Open,TRUE,###86S54,RESIDENTIAL_MORTGAGES,Living Equity,200
+L8,5320372,kqTIjDeCs-BxmU6-nUevKA,2018-05-24T14:00:00.000Z,Interest Only Variable Account,Investment Loan,Open,TRUE,###72L8,RESIDENTIAL_MORTGAGES,Interest Only Variable Loan,200
+L2,5998816,BOu4RloBAP2GZ9At5h8y4w,1999-12-05T14:00:00.000Z,Investment Account (A/C closed 01 APR 15),Investment Account (A/C closed 01 APR 15),Closed,TRUE,###16L2.1,RESIDENTIAL_MORTGAGES,Investment Variable Loan,200
+L9.1,14579448,UkLHHjvSijXTMKW2DYT48Q,2018-02-19T14:00:00.000Z,Interest Only Fixed Account,Interest Only Fixed Account,Open,TRUE,###48L9.1,RESIDENTIAL_MORTGAGES,Interest Only Fixed Account,200
+L33,8194459,qRt7Bavl4CNXIbVnNxZFAw,2014-10-13T14:00:00.000Z,Inv Special Fixed Int Account,Inv Special Fixed Int Account,Open,TRUE,###59L33.2,RESIDENTIAL_MORTGAGES,Investment Fixed Loan,200
+L62,8178577,4Anf-J0FqN4iGsz3c6UX_g,2010-12-16T14:00:00.000Z,O/o Fixed (assoc) Account (A/C closed 24 SEP 21),Home 2 (A/C closed 24 SEP 21),Closed,TRUE,###77L62,RESIDENTIAL_MORTGAGES,Owner-Occupied Fixed Loan,200
+L36,9587012,r1WMVeS00hXY4LrY6Zl8SQ,2004-09-05T14:00:00.000Z,Variable Options O/occ Account,Variable Options O/occ Account,Open,TRUE,###12L36,RESIDENTIAL_MORTGAGES,Owner-Occupied Variable Options Loan,200
+L67,8885664,3AaIlm4MkFaVlP_emGw1Bg,2003-04-23T14:00:00.000Z,Var Option O/o (assoc) Account (A/C closed 19 NOV 14),Var Option O/o (assoc) Account (A/C closed 19 NOV 14),Closed,TRUE,###64L67,RESIDENTIAL_MORTGAGES,Owner-Occupied Variable Options Loan,200
+L1,12234362,nkL5pcioxuPhYWjufm-TLg,2010-11-25T14:00:00.000Z,Owner Occupied Account,Owner Occupied Account,Open,TRUE,###62L1,RESIDENTIAL_MORTGAGES,Owner-Occupied Variable Options Loan,200
+L1,14507994,ihRDG_bmVKcGAlnXV9cJGA,2022-06-09T14:00:00.000Z,Owner Occupied Account,Owner Occupied Account,Open,TRUE,###94L1,RESIDENTIAL_MORTGAGES,Owner-Occupied Variable Loan,200
+L60,15401995,fIygTGkVsUDZvIkWwh-NTg,2020-12-06T14:00:00.000Z,O/o Var (assoc) Account,O/o Var (assoc) Account,Open,TRUE,###95L60,RESIDENTIAL_MORTGAGES,Owner-Occupied Variable Loan,200
+L29,8066523,nccxjGHC1Fg5CKSBUNUu6g,2017-12-06T14:00:00.000Z,Bridging Loan Account (A/C closed 22 MAR 18),Bridging Loan Account (A/C closed 22 MAR 18),Closed,TRUE,###23L29,RESIDENTIAL_MORTGAGES,Bridging Loan,200
+L47 - L47.9,14730006,-58bEBnBTnNia5BboHWzSw,2018-07-24T14:00:00.000Z,Personal Loan Variable Account (A/C closed 25 JUL 18),Personal Loan Variable Account (A/C closed 25 JUL 18),Closed,TRUE,###06L47,PERS_LOANS,Standard Personal Loan Variable,200
+L46 - L46.9,8178577,NgeJg0LcJVXjqeCYsccHaA,2016-12-13T14:00:00.000Z,Car Loan Account (A/C closed 12 DEC 17),Car Loan Account (A/C closed 12 DEC 17),Closed,TRUE,###77L46,PERS_LOANS,Car Loan - Fixed,200
+L48 - L48.9,14899051,_3FK_rjaMiQ30B-s6tLF4Q,2020-09-28T14:00:00.000Z,Personal Loan Fixed Account,Personal Loan Fixed Account,Open,TRUE,###51L48,PERS_LOANS,Standard Personal Loan Fixed,200
+L50,8066523,ojsMlYixGmBFxRPBEhxafA,2012-09-19T14:00:00.000Z,Visa Classic Account (A/C closed 12 AUG 16),Visa Classic Account (A/C closed 12 AUG 16),Closed,TRUE,###23L50,CRED_AND_CHRG_CARDS,Visa Classic,200
+L61,8062226,lHsRO5h5Ry3O7bYRlXnt0w,2017-03-06T14:00:00.000Z,Visa Platinum Account,Visa Platinum Account,Open,TRUE,###26L61,CRED_AND_CHRG_CARDS,Platinum,200
+S26,3065324,5zEO4zNCbHV5qkFSZzpLsA,2014-05-20T14:00:00.000Z,Online Saver Account,Online Saver Account,Open,TRUE,###24S26,TRANS_AND_SAVINGS_ACCOUNTS,Online Saver,200
+S12,10093273,y8LbquFsJoObv_psNTk30Q,2005-10-16T14:00:00.000Z,Target Bonus Account (A/C closed 06 MAY 22),Target Bonus Account (A/C closed 06 MAY 22),Closed,TRUE,###73S12,TRANS_AND_SAVINGS_ACCOUNTS,Target Bonus,200
+S1,15493679,2ej2E_jFx0zbmz3vk0rjUw,2020-12-03T14:00:00.000Z,Simply Access Account,Simply Access Account,Open,TRUE,###79S1,TRANS_AND_SAVINGS_ACCOUNTS,Simply Access,200
+S10 - S10.9,12349798,eDyUQL8J7Cy32IIfSrAzlw,2014-05-04T14:00:00.000Z,Mortgage Crusher Account,Pays,Open,TRUE,###98S10,TRANS_AND_SAVINGS_ACCOUNTS,Mortgage Crusher,200
+S9.1 to S9.9,10072926,9rUgD0qF0uUVlX7gjY6Tcg,2007-10-08T14:00:00.000Z,Loan Offset Account,Clayfield,Open,TRUE,###26S9,TRANS_AND_SAVINGS_ACCOUNTS,Loan Offset,200
+S8-S8.9,4167333,8BH4PnUjmEOtjRut2QQcqg,2002-03-12T14:00:00.000Z,Cash Management Account,Pay�Pal�Account,Open,TRUE,###33S8,TRANS_AND_SAVINGS_ACCOUNTS,Cash Management Account,200
+S65 - S65.9,425869,YkVFLMmZLq02SCg0fh7PwQ,2009-10-04T14:00:00.000Z,Pension Plus Account,Pension Plus Account,Open,TRUE,###69S65,TRANS_AND_SAVINGS_ACCOUNTS,Pension Plus,200

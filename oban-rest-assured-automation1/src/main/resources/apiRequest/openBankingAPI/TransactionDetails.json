@@ -1,0 +1,10 @@
+{
+  "requestParameter": {
+    "userId": "{{userId}}",
+    "requestorCode": "81803f1f077f441c9e9af831d6a69aef"
+  },
+  "dataFilterParameter":{
+    "accountId":"{{accountId}}",
+    "transactionId": "{{transactionId}}"
+  }
+}

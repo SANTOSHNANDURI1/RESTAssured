@@ -1,0 +1,89 @@
+{\n" +
+                "  \"membershipClass\": \"MEMBER\",\n" +
+                "  \"communicationPreferences\": {\n" +
+                "    \"enableMailMarketing\": true,\n" +
+                "    \"enablePhoneMarketing\": true,\n" +
+                "    \"enableSmsMarketing\": true,\n" +
+                "    \"enableEmailMarketing\": true,\n" +
+                "    \"enableElectronicCommunicationsLoans\": true,\n" +
+                "    \"enableElectronicCommunicationsOther\": true\n" +
+                "  },\n" +
+                "  \"emailAddresses\": [\n" +
+                "    \"string_heritage_random@heritage.com.au\"\n" +
+                "  ],\n" +
+                "  \"homeBranch\": 977,\n" +
+                "  \"joinBranch\": 977,\n" +
+                "  \"parties\": [\n" +
+                "    {\n" +
+                "      \"partyUniqueId\": 1,\n" +
+                "      \"partyType\": [\n" +
+                "        \"ACCOUNT_HOLDER\"\n" +
+                "      ],\n" +
+                "      \"personalDetails\": {\n" +
+                "        \"gender\": \"F\",\n" +
+                "        \"nameTitle\": \"Ms\",\n" +
+                "        \"firstName\": \"Joseph\",\n" +
+                "        \"middleName\": \"Hermit Purple Blue Pink\",\n" +
+                "        \"surname\": \"Jones\",\n" +
+                "        \"nickname\": \"Princess\",\n" +
+                "        \"dateOfBirth\": \"1990-09-19\",\n" +
+                "        \"residentialStatus\": \"BUYER\"\n" +
+                "      },\n" +
+                "      \"identificationDetails\": [\n" +
+                "        {\n" +
+                "          \"documentType\": \"EXISTING_CUSTOMER\",\n" +
+                "          \"documentId\": \"abc123\",\n" +
+                "          \"dateOfBirth\": \"1990-09-19\",\n" +
+                "          \"issuedBy\": \"Government\",\n" +
+                "          \"placeOfIssue\": \"QLD\",\n" +
+                "          \"issuedDate\": \"2019-10-20\",\n" +
+                "          \"expiryDate\": \"2019-10-20\",\n" +
+                "          \"addressLineOne\": \"10 Long St\",\n" +
+                "          \"addressLineTwo\": \"Toowoomba\"\n" +
+                "        }\n" +
+                "      ],\n" +
+                "      \"homePhoneNumber\": {\n" +
+                "        \"areaCode\": \"07\",\n" +
+                "        \"phoneNumber\": \"55505550\"\n" +
+                "      },\n" +
+                "      \"workPhoneNumber\": {\n" +
+                "        \"areaCode\": \"07\",\n" +
+                "        \"phoneNumber\": \"55505550\"\n" +
+                "      },\n" +
+                "      \"mobileNumber\": \"0491570158\",\n" +
+                "      \"otherPhoneNumber\": {\n" +
+                "        \"areaCode\": \"07\",\n" +
+                "        \"phoneNumber\": \"55505550\",\n" +
+                "        \"description\": \"Work Phone\"\n" +
+                "      },\n" +
+                "      \"residentialAddress\": {\n" +
+                "        \"propertyName\": \"Hermiton\",\n" +
+                "        \"unitNumber\": \"u1\",\n" +
+                "        \"streetNumber\": \"88\",\n" +
+                "        \"streetName\": \"star\",\n" +
+                "        \"streetType\": \"St\",\n" +
+                "        \"suburb\": \"Brisbane City\",\n" +
+                "        \"state\": \"QLD\",\n" +
+                "        \"postcode\": \"4000\",\n" +
+                "        \"countryCode\": \"AUS\",\n" +
+                "        \"dateCommencedAt\": \"2010-01-22\"\n" +
+                "      },\n" +
+                "      \"mailingAddress\": {\n" +
+                "        \"fullAddress\": \"Hermiton Estate U1 88 star St\",\n" +
+                "        \"suburb\": \"Brisbane City\",\n" +
+                "        \"state\": \"QLD\",\n" +
+                "        \"postcode\": \"4000\",\n" +
+                "        \"countryCode\": \"AUS\"\n" +
+                "      },\n" +
+                "      \"occupation\": {\n" +
+                "        \"code\": \"111\",\n" +
+                "        \"description\": \"Software Engineer\",\n" +
+                "        \"industryCode\": \"1\"\n" +
+                "      },\n" +
+                "      \"securityQuestionOneAnswer\": \"Which is your favourite city\",\n" +
+                "      \"securityQuestionTwoAnswer\": \"Brisbane\",\n" +
+                "      \"nonResidentFlag\": true\n" +
+                "    }\n" +
+                "  ],\n" +
+                "  \"priorityRelationship\": true\n" +
+                "}

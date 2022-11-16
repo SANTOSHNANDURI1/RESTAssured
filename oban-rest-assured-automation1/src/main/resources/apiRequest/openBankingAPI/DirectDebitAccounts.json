@@ -1,0 +1,16 @@
+{
+  "requestParameter": {
+    "userId": "{{userId}}",
+    "requestorCode": "81803f1f077f441c9e9af831d6a69aef"
+  },
+  "dataFilterParameter":{
+
+    "bulk":{
+      "open-status":"OPEN"
+    }
+  },
+  "page": {
+    "pageNumber": 1,
+    "pageSize": 10
+  }
+}

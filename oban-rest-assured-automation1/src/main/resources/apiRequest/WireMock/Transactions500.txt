@@ -1,0 +1,17 @@
+{
+  "requestParameter": {
+    "userId": "10695214",
+    "requestorCode": "81803f1f077f441c9e9af831d6a69aef"
+  },
+  "dataFilterParameter":{
+    "isDetailAvailable": "true",
+    "accountId":"x_Zh418ypc-Z1c-7vToqBQ",
+    "oldest-time":"2010-05-20T14:00:00.000Z",
+    "newest-time":"2022-10-29T14:00:00.000Z"
+  },
+
+  "page": {
+    "pageNumber": 1,
+    "pageSize": 10
+  }
+}
